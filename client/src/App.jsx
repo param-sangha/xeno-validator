@@ -12,7 +12,7 @@ function App() {
     const formData = new FormData();
     formData.append('file', file);
 
-    const res = await fetch('https://xeno-validator-server.onrender.com', {
+    const res = await fetch('https://xeno-validator-0v2d.onrender.com', {
       method: 'POST',
       body: formData,
     });
