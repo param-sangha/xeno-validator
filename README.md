@@ -2,7 +2,7 @@
 
 A simple web app to validate and clean transaction CSV data.
 
-🔗 **Live Demo:** xeno-validator-c475wis7a-in-punjabs-projects.vercel.app
+🔗 **Live Demo:** [xeno-validator-c475wis7a-in-punjabs-projects.vercel.app](https://xeno-validator.vercel.app/)
 
 ## What it does
 
